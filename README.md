@@ -36,7 +36,7 @@ lorem
 - [x] _CSS3_
 - [ ] _SASS_
 - [ ] _SCSS_
-- [x] _JavaScript_
+- [ ] _JavaScript_
 - [ ] _React_
 - [ ] _Bootstrap_
 - [x] _npm_
